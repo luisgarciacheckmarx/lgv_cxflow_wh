@@ -1,3 +1,5 @@
 # LGV_CxFlow
 
-Hola caracola18 from main (from branch2)
+Sample project with CxSAST Webhook and cx.config
+
+Hola caracola40 from main
